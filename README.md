@@ -5,7 +5,7 @@
 ```yaml
 name: Oliver Elvino Putra Pratama
 location: Kabupaten Semarang, Indonesia
-education: Universitas Kristen Satya Wacana
+education: Bachelor of Informatics Engineering, Universitas Kristen Satya Wacana
 role: Junior Web Developer
 interests: ["UI/UX Designer", "Frontend", "Data Science"]
 motto: "Greatness from small beginnings"
