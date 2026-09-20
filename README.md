@@ -7,7 +7,7 @@ name: Oliver Elvino Putra Pratama
 location: Kabupaten Semarang, Indonesia
 education: Universitas Kristen Satya Wacana
 role: Junior Web Developer
-interests: ["UI/UX Designer", "Frontend Development", "Data Science"]
+interests: ["UI/UX Designer", "Frontend", "Data Science"]
 motto: "Greatness from small beginnings"
 ```
 
